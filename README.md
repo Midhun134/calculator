@@ -4,7 +4,7 @@ This is a simple command-line calculator program written in Python. It can perfo
 # Features
 Addition,
 Subtraction,
-Multiplication,
+Multiplication
 Division
 
 # Prerequisites
