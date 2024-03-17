@@ -5,7 +5,8 @@ This is a simple command-line calculator program written in Python. It can perfo
 Addition,
 Subtraction,
 Multiplication,
-Division
+Division,
+square root
 
 # Prerequisites
 Python 3.x
