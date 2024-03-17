@@ -7,7 +7,7 @@ Subtraction,
 Multiplication,
 Division,
 square root,
-change the square root
+change the square root tomorrow's 
 
 # Prerequisites
 Python 3.x
