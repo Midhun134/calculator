@@ -6,7 +6,8 @@ Addition,
 Subtraction,
 Multiplication,
 Division,
-square root
+square root,
+change the square root
 
 # Prerequisites
 Python 3.x
